@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>Fonts/DancingScript.ttf</file>
+        <file>Fonts/Merriweather-Black.ttf</file>
+        <file>Fonts/Corinthia-Bold.ttf</file>
+        <file>Fonts/PlayfairDisplay-Italic-VariableFont_wght.ttf</file>
+        <file>Fonts/CormorantGaramond-SemiBoldItalic.ttf</file>
+        <file>Fonts/AkayaTelivigala-Regular.ttf</file>
+        <file>Fonts/EBGaramond-VariableFont_wght.ttf</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>Icons/chevron-down-regular-24.png</file>
+        <file>Icons/chevron-right-regular-24.png</file>
+        <file>Icons/loader-regular-24.png</file>
+        <file>Icons/revision-regular-24.png</file>
+        <file>Icons/loading.gif</file>
+        <file>Icons/minus-regular-24.png</file>
+        <file>Icons/plus-regular-24.png</file>
+        <file>Icons/x-regular-24.png</file>
+        <file>Icons/window-alt-regular-24.png</file>
+        <file>Icons/windows-regular-24.png</file>
+        <file>Icons/down-arrow-solid-24.png</file>
+        <file>Icons/left-arrow-solid-24.png</file>
+        <file>Icons/right-arrow-solid-24.png</file>
+        <file>Icons/up-arrow-solid-24.png</file>
+        <file>Icons/skip-next-circle-regular-24.png</file>
+        <file>Icons/skip-previous-circle-regular-24.png</file>
+        <file>Icons/pause-circle-regular-36.png</file>
+        <file>Icons/play-circle-regular-36.png</file>
+        <file>Icons/volume-full-regular-36.png</file>
+        <file>Icons/volume-mute-regular-36.png</file>
+        <file>Icons/polygon-solid-72.png</file>
+        <file>Icons/lock-open-regular-24.png</file>
+        <file>Icons/lock-regular-24.png</file>
+        <file>Icons/lock-open-solid-24.png</file>
+        <file>Icons/lock-solid-24.png</file>
+        <file>Icons/github-logo-24.png</file>
+        <file>Icons/logo.ico</file>
+        <file>Icons/chevrons-left-regular-24.png</file>
+    </qresource>
+</RCC>
